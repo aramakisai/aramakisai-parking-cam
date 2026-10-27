@@ -1,0 +1,8 @@
+# PlatformIO
+.pio/
+.vscode/
+
+.DS_Store
+
+include/device_config.h
+.claude/settings.local.json

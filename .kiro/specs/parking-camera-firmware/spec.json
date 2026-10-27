@@ -1,0 +1,22 @@
+{
+  "feature_name": "parking-camera-firmware",
+  "created_at": "2026-10-17T14:31:17Z",
+  "updated_at": "2026-10-27T00:00:00Z",
+  "language": "ja",
+  "phase": "implementation",
+  "approvals": {
+    "requirements": {
+      "generated": true,
+      "approved": true
+    },
+    "design": {
+      "generated": true,
+      "approved": true
+    },
+    "tasks": {
+      "generated": true,
+      "approved": true
+    }
+  },
+  "ready_for_implementation": true
+}
